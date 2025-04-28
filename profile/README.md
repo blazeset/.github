@@ -7,7 +7,7 @@
 - wanted to share your Windows setup to others?
 - wished [Nix](https://nixos.org/) was on Windows?
 - wished there was a faster, more reliable way to setup your environment?
-- 
+
 ## That's what blazeset is for!
 blazeset is a **modern, powerful tool** designed to **configure your Windows environment declaratively**.
 
